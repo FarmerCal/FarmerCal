@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @FarmerCal
+- 👀 I’m interested in medecine and mobile application development
+- 🌱 I’m currently learning Swift / SwiftUI
+- 💞️ I’m looking to collaborate on iOS mobile apps
+- 📫 How to reach me: I can be reaced on Discord most easily, FarmerCal#2655, my work email works to, farmercal.epic@gmail.com
