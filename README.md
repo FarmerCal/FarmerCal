@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FarmerCal
 - 👀 I’m interested in medecine and mobile application development
-- 🌱 I’m currently learning Swift / SwiftUI
-- 💞️ I’m looking to collaborate on iOS mobile apps
-- 📫 How to reach me: I can be reaced on Discord most easily, FarmerCal#2655, my work email works to, farmercal.epic@gmail.com
+- 🌱 I’m currently learning Colemak X custom dactyl manuforum
+- 💞️ I’m looking for people who would like to make their application dream a reality
+- 📫 How to reach me: Discord -> FarmerCal#2655, email -> caldayham@gmail.com
